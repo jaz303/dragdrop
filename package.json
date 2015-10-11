@@ -1,7 +1,7 @@
 {
   "name": "dragdrop",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "the most unimaginatively named drag and drop library in the world - ever!",
   "main": "main.js",
   "dependencies": {
     "dom-bind": "^1.0.0"
@@ -10,6 +10,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaz303/dragdrop.git"
+  },
+  "keywords": [
+    "drag",
+    "drop",
+    "dom"
+  ],
+  "bugs": {
+    "url": "https://github.com/jaz303/dragdrop/issues"
+  },
+  "homepage": "https://github.com/jaz303/dragdrop#readme"
 }
