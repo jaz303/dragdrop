@@ -1,6 +1,6 @@
 {
   "name": "dragdrop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "the most unimaginatively named drag and drop library in the world - ever!",
   "main": "main.js",
   "dependencies": {
